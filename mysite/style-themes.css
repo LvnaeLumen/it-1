@@ -67,7 +67,8 @@ a:focus {
   line-height: 48px;
 }
 
-.theme-button {
+/*Временно переделал с класса .theme-button на общий стиль кнопок */
+button {
   position: relative;
   margin-top: 20px;
   padding-top: 7px;
