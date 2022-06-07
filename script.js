@@ -11,7 +11,9 @@ var animations = ["files/frog-hat.gif",
 "files/frog-lily.gif",
 "files/frog-jumping.gif",
 "files/sapo-frog.gif",
-"files/spin-frog.gif",
+"files/frog-takes-a-shower-shower.gif",
+"files/frog-toad-flex-twerk.gif",
+"files/jump.gif"
 ];
 
 
